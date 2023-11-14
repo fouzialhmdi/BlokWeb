@@ -41,7 +41,7 @@ Homepage
 ![image](https://github.com/fouzialhmdi/FED/assets/112877092/c64cc8df-1c65-4891-b6e6-ee219651392c)
 
   #### Screenshot(s) van de tweede pagina (small screen):
-
+Fun
 ![image](https://github.com/fouzialhmdi/FED/assets/112877092/1a46a7c0-b06c-4a83-8e88-2732de27d837)
  
 </details>
