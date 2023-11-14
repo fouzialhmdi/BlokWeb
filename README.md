@@ -16,14 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+ Fouzia Lahmidi
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+Rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+Responsive  
 </details>
 
 
@@ -36,15 +35,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+https://pusheen.com/
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Homepage
+![image](https://github.com/fouzialhmdi/FED/assets/112877092/c64cc8df-1c65-4891-b6e6-ee219651392c)
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+
+![image](https://github.com/fouzialhmdi/FED/assets/112877092/1a46a7c0-b06c-4a83-8e88-2732de27d837)
  
 </details>
 
