@@ -61,6 +61,8 @@ Test met bril:
 
 Met de bril op merkte ik weinig verschil. Ik moet soms dubbel kijken of ik wel de juiste pagina of item aanklikte. Maar voor de rest ging het goed, ik heb mouches volantes dus ik ben al gewend om zo te kijken.
 
+Screenreader:
+De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de screenreader leest. Sommige links spelt de screenreader in plaats van het woord uit te spreken. 
   
 </details>
 
