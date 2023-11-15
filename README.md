@@ -54,8 +54,14 @@ Fun
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+Test met elasiekjes om de vingers:
+Het lukte om verschillende pagina's te bezoeken, maar zodra ik afbeeldingen wilde  vergroten of de slideshow door wilde klikken reageerde het niet of klikte ik de website helemaal weg.
 
+Test met bril:
+
+Met de bril op merkte ik weinig verschil. Ik moet soms dubbel kijken of ik wel de juiste pagina of item aanklikte. Maar voor de rest ging het goed, ik heb mouches volantes dus ik ben al gewend om zo te kijken.
+
+  
 </details>
 
 
