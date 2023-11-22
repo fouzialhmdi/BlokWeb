@@ -95,6 +95,9 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+![image](https://github.com/fouzialhmdi/FED/assets/112877092/20284f6c-d33d-42dc-9e21-ac5188b353b1)
+![image](https://github.com/fouzialhmdi/FED/assets/112877092/e5f4100b-a1c4-4175-bf8c-6a5d2d7df201)
+![image](https://github.com/fouzialhmdi/FED/assets/112877092/a5f61b0a-a76e-4dab-a461-9b4f1227cf7b)
 
 
   ### Agenda voor meeting
