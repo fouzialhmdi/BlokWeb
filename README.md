@@ -103,17 +103,19 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Nathalie    | Sosan        | Fouzia    | student 4        |
+  | ---          HTML laten nakijken                | ---          | ---              |
+  | HTML structuur 
+  laten nakijken  | en dit             | Toegankelijkheid    | en dan ik dat    |
+  | Stap 9 en 10
+  hamburgermenu | dit als er tijd is | Slideshow voor eigen websie | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
+  - Blijven oefenen met de opdracht
   - punt 2
   - nog een punt
   - ...
@@ -136,10 +138,11 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Nathalie     | Sosan          | Fouzia    | student 4        |
+  | ---            | ---           HTML laten nakijken ---          | ---              |
+  | Uitklapmenu  | en dit             | Vraag over hoe ik de content netjes onder elkaar krijg| en dan ik dat    |
+  | Vraag over hoe scrollvak 
+  in de juiste plek krijgen| dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
