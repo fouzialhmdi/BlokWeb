@@ -1,31 +1,89 @@
-/**************/
-/* CSS REMEDY */
-/**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
+
+
+body {
+    margin: 0;
+    padding: 0;
+    align-items:center;
+    height: 100vh;
+
+    font-family: 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 14px;
+    font-weight: 300;
+    color: #50342b;
 }
 
+.banner {
 
-
-
-
-
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
-:root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+    background-color: #ffe9f0;
+    padding: 4em;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.banner-logo, .gif{
+    max-width: 100%;
+    max-height: 100px;
+    display: block;
 
+}
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;    
 
+    text-align: center;
+}
 
-/****************/
-/* JOUW STYLING */
-/****************/
+li {
+    display: inline-block;
+    margin: 20px;
+    margin-right: 40px;
+}
 
-/* jouw code */
+a {
+    text-decoration: none;
+    color: #50342b;
+    text-transform: uppercase;
+    font-weight:bold;
+    transition: color 0.3s ease;
+}
 
+li.huidig a {
+    color: #ffe9f0;
+
+}
+
+li a:hover {
+    color: #ffe9f0;
+}
+
+.banner-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.banner-image {
+width: 900px;
+height:auto;
+max-width: 100%
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.gif {
+    display:flex;
+    justify-content: center;
+}
+
+.gif img {
+    margin: 5px;
+    width: 300px;
+    height: 300px;
+
+}
