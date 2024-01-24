@@ -1,0 +1,181 @@
+:root {
+    --primary-background: #ff2644;
+    --text-color: #ffffff;
+    --accent-color: #383e42;
+    --button-background: #ffffff;
+    --button-text: #ff2644;
+    --form-background: #ffffff;
+    --form-input-background: #ffffff;
+    --form-input-text: #ff2644;
+    --hover-color: hotpink;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    font-family: 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1em;
+    background-color: var(--primary-background);
+    color: var(--text-color);
+}
+
+header>section:first-of-type {
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+header>section:first-of-type img {
+    max-width: 30%;
+    max-height: 6.25em;
+}
+
+p {
+    text-align: center;
+    color: var(--text-color);
+    line-height: 1.5em;
+    margin: 0 2em;
+}
+
+h2 {
+    color: var(--accent-color);
+}
+
+a {
+    display: inline-block;
+    text-align: center;
+    color: var(--text-color);
+    padding: 1em;
+    margin: 1em 4em;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a:hover {
+    color: var(--hover-color);
+}
+
+a:focus {
+    outline: 0.5em solid var(--hover-color);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+input:focus {
+    border: var(--hover-color);
+    box-shadow: 0 0 0.5em var(--hover-color);
+    outline: none;
+}
+
+fieldset {
+    margin-bottom: 1em;
+    border: none;
+}
+
+button {
+    background-color: var(--button-background);
+    color: var(--button-text);
+    padding: 0.625em 1em;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 1em;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+button:hover {
+    background-color: var(--hover-color);
+}
+
+button:focus {
+    outline: 0.5em solid var(--hover-color);
+}
+
+input[type="checkbox"] {
+    margin: 0;
+    padding: 0;
+}
+
+label.checkbox-label {
+    display: flex;
+    align-items: center;
+    margin-right: 70%;
+}
+
+label.checkbox-label span {
+    margin: 0.5em;
+    white-space: nowrap;
+    color: #fffdff;
+    ;
+    font-size: 0.8em;
+}
+
+.marketing-permissions {
+    background-color: var(--form-background);
+    padding: 1em;
+    margin: 1em 0;
+}
+
+.marketing-permissions p {
+    color: var(--accent-color);
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    text-align: left;
+    max-width: 100%;
+    margin: 1em;
+}
+
+.marketing-permissions input[type="checkbox"] {
+    margin-right: 0.5em;
+}
+
+.marketing-permissions .checkbox-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.marketing-permissions .checkbox-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.marketing-permissions label.checkbox-label span {
+    white-space: nowrap;
+    margin-left: 0.5em;
+    color: var(--accent-color);
+}
+
+
+/* Bronnen: ChatGpT gevraagd over stylen forms.
+https://www.w3schools.com/html/html_forms.asp

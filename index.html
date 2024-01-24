@@ -1,43 +1,106 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
-
-    <link rel="stylesheet" href="style.css">
-
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
+    <script src="script.js"></script>
+
     <header>
-         <div class="banner">
-        <img src="images/logo_combined.png" alt="logo" class="banner-logo">
-        <img src="images/gif-pusheen.gif" alt="gif pusheen" class="gif">
-        </div>
-    
-         <ul>
-        <li class="huidig"><a href="">Home</a></li>
-        <li><a href="">Comics</a></li>
-        <li><a href="">Characters</a></li>
-        <li><a href="">Shop</a></li>
-        <li><a href="">Fun</a></li>
-        <li><a href="">About</a></li>
-        <li><a href="">News</a></li>
-        </ul>
+        <section>
+            <img src="images/logo_combined.png" alt="logo">
+            <img src="images/gif-pusheen.gif" alt="gif pusheen">
+        </section>
+
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Comics</a></li>
+                <li><a href="#">Characters</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">Fun</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">News</a></li>
+            </ul>
+        </nav>
     </header>
 
+    <button id="themeSwitcher" class="toggle-button">Dark Mode</button>
+
     <main>
-        <div class="banner-container">
-            <img src="images/PusheensGuidetoEverything_Banner_EVERGREEN3_desktop-1.jpg" alt="Pusheen" class="banner-image">
-            </div>
-        
-        <h2>Comics</h2>
-        <section class="gif">
-            <img src="images/Thankful_for_You.gif" alt="Thankful for You">
-             <img src="images/Capybar_Hot_Springs_GIF.webp" alt="Capybara hot springs">
-             <img src="images/Cozy_Hobbies_with_Pusheen.gif" alt="Cozy hobbies with Pusheen">
+        <section class="fade-in">
+            <img src="images/PusheensGuidetoEverything_Banner_EVERGREEN3_desktop-1.jpg" alt="Pusheen">
         </section>
+
+        <h2 class="fade-in">Comics</h2>
+        <section class="fade-in">
+            <img src="images/Thankful_for_You.gif" alt="Thankful for You">
+            <img src="images/Capybar_Hot_Springs_GIF.webp" alt="Capybara hot springs">
+            <img src="images/Cozy_Hobbies_with_Pusheen.gif" alt="Cozy hobbies with Pusheen">
+
+
+            <a href="#">View more comics</a>
+        </section>
+
+        <h2 class="fade-in">News</h2>
+        <section class="fade-in">
+            <img src="images/pusheen-christmas-bakery.png" alt="Pusheen's chrismas bakery">
+            <p>December 1, 2023</p>
+            <p> A Pusheen bakery christmas</p>
+            <p>See more Pusheen videos on the official Pusheen YouTube Channel!</p>
+        </section>
+
+        <section class="fade-in">
+            <img src="images/pusheenfoodcake.png" alt="Pusheen devil's foodcake">
+            <p>September 22, 2023</p>
+            <p>Pusheen: Devil's Food cake</p>
+            <p>See more Pusheen videos on the official Pusheen YouTube Channel!</p>
+        </section>
+
+        <section class="fade-in">
+            <img src="images/pusheensshowdown.png" alt="Pusheen's showdown">
+            <p>June 30, 2023</p>
+            <p>Pusheen's showdown</p>
+            <p>See more Pusheen videos on the official Pusheen YouTube Channel!</p>
+        </section>
+
+        <a href="#">View more news</a>
+
+        <section class="fade-in">
+            <figure class="fade-in">
+                <img src="images/Plant-Hero.jpg" alt="Pusheen with a plant">
+                <figcaption>What kind of plant should you get?</figcaption>
+            </figure>
+
+            <figure class="fade-in">
+                <img src="images/What-Sweet-Quiz-SocialResults_Donut-1-e1608220861325.jpg" alt="Pusheen in a donut">
+                <figcaption>What kind of sweet are you?</figcaption>
+            </figure>
+
+            <figure class="fade-in">
+                <img src="images/Preview-Image.jpg" alt="Pusheen with a controller">
+                <figcaption>What game should you play next?</figcaption>
+            </figure>
+        </section>
+
+        <a href="#">View more quizzes</a>
     </main>
+
+    <footer class="fade-in">
+        <div>
+            <p>2023 Pusheen Corp. All rights Reserved</p>
+            <p>Privacy Policy</p>
+        </div>
+
+        <a href="newsletter.html">Sign up for our newsletter!</a>
+    </footer>
+
+
 </body>
+
 </html>

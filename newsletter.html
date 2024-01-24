@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign up</title>
+
+    <link rel="stylesheet" href="forms.css">
+</head>
+
+<body>
+
+    <header>
+        <section>
+            <img src="images/logo_combined.png" alt="logo">
+            <img src="images/gif-pusheen.gif" alt="gif pusheen">
+        </section>
+    </header>
+
+    <main>
+        <p>Sign up today to receive updates about Pusheen news, and comics, as well as exclusive giveaways and free
+            downloadable treats!
+            Plus, you'll be the first to hear about any new products, sales, and exclusive offers from Pusheen Shop!</p>
+
+        <a href="#">View the Pusheen Privacy Policy</a>
+
+        <form action="/submit" method="post">
+            <label for="email">E-mail Adress*:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="firstName">First name:</label>
+            <input type="text" id="firstName" name="firstName" required>
+
+            <label for="lastName">Last Name:</label>
+            <input type="text" id="lastName" name="lastName" required>
+
+            <label for="birthday">Birthday:</label>
+            <input type="date" id="birthday" name="birthday" required>
+
+            <label for="zipCode">Zip Code:</label>
+            <input type="text" id="zipCode" name="zipCode" required>
+
+            <label for="gender">Gender:</label>
+            <select id="gender" name="gender">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+            </select>
+
+            <label for="age">Are you 18+ years old?*</label>
+            <select id="age" name="age">
+                <option value="yes">Ja</option>
+                <option value="no">Nee</option>
+            </select>
+
+            <fieldset>
+                <legend>Send me emails about</legend>
+
+                <label class="checkbox-label">
+                    <input type="checkbox" name="category" value="new_art">
+                    <span>New Art, Comics, Quizzes, & Free Downloads</span>
+                </label>
+
+                <label class="checkbox-label">
+                    <input type="checkbox" name="category" value="news">
+                    <span>News, Giveaways, & Events</span>
+                </label>
+
+                <label class="checkbox-label">
+                    <input type="checkbox" name="category" value="exclusive">
+                    <span>New & Exclusive Products, Sales, & Email Subscriber-Only Offers</span>
+                </label>
+            </fieldset>
+
+            <div class="marketing-permissions">
+                <h2>Marketing Permissions</h2>
+                <p>Pusheen Shop will use the information you provide on this form to be in touch with you and to provide
+                    updates and marketing. Please let us know all the ways you would like to hear from us:</p>
+                <div class="checkbox-group">
+                    <div class="checkbox-container">
+                        <input type="checkbox" id="checkbox1" name="checkbox1">
+                        <label class="checkbox-label" for="checkbox1"><span>Email</span></label>
+                    </div>
+                    <div class="checkbox-container">
+                        <input type="checkbox" id="checkbox2" name="checkbox2">
+                        <label class="checkbox-label" for="checkbox2"><span>Direct Mail</span></label>
+                    </div>
+                    <div class="checkbox-container">
+                        <input type="checkbox" id="checkbox3" name="checkbox3">
+                        <label class="checkbox-label" for="checkbox3"><span>Customized online advertising</span></label>
+                    </div>
+                </div>
+                <p>You can change your mind at any time by clicking the unsubscribe link in the footer of any email you
+                    receive from us, or by contacting us at news@pusheen.com. We will treat your information with
+                    respect. For more information about our privacy practices please visit our website. By clicking
+                    below, you agree that we may process your information in accordance with these terms.</p>
+            </div>
+
+            <button type="submit">Subsribe</button>
+        </form>
+
+    </main>
+</body>
+
+</html>
