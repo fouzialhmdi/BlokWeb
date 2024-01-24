@@ -72,14 +72,8 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
+![breakoutschets](https://github.com/fouzialhmdi/FED/assets/112877092/0320a52f-63f4-4e3e-ba5d-202dae86c8ae)
 
-  ### de hele pagina: 
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -115,10 +109,7 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
   - Blijven oefenen met de opdracht
-  - punt 2
-  - nog een punt
-  - ...
-
+ 
 </details>
 
 
@@ -146,8 +137,8 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
 
+  Helaas had ik nog niet zo veel om te laten zien en heeft Donna de tijd genomen om mijn code langs te gaan en heeft zij mij tips gegeven hoe ik bepaalde dingen beter kan aanpakken. 
   - punt 1
   - punt 2
   - nog een punt
@@ -165,9 +156,7 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
-</details>
+  Bij het testen van de screenreader leest de narrator alle headings en link, maar niet de afbeeldingen. 
 
 
 
@@ -220,7 +209,7 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
 
 
   ### Dit was lastig/Is niet gelukt:
-  Hamburger is niet gelukt, ik kwam er helaas niet uit met het plaatsen op de juiste plek en het ontwerp verschoof constant.
+  Hamburgermenu is niet gelukt, ik kwam er helaas niet uit met het plaatsen op de juiste plek en het ontwerp verschoof constant.
   ![image](https://github.com/fouzialhmdi/FED/assets/112877092/0341aadd-1754-44bd-9ad5-dca229818671)
 </details>
 
@@ -237,7 +226,7 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. ChatGpT 
+  1. ChatGpt: form, hulp met darkmode, bolletjes bij de heading.
   2. Pusheen.com voor de afbeeldingen
   3. https://www.codepel.com/animation/falling-heart-animation-css/
   4. https://www.w3schools.com/css/css_border.asp
