@@ -74,7 +74,6 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -206,19 +205,23 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  ![screencapture-127-0-0-1-5500-2024-01-24-16_50_08](https://github.com/fouzialhmdi/FED/assets/112877092/3c79ea54-935f-42f4-92b4-041dc46d4aad)
+  ![image](https://github.com/fouzialhmdi/FED/assets/112877092/1ffe2a70-e187-4eb7-80af-d25aa1b6b724)
+  
+
+
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  Animatie met javascript is verrassend genoeg goed gegaan. Ik heb geleerd hoe ik dark mode moet toepassen op mijn ontwerp. en hoe ik de kleur van de hartjes laat veranderen in dark mode.
+  Ook heb ik geleerd hoe ik een scrollanimatie moet maken.
+  ![image](https://github.com/fouzialhmdi/FED/assets/112877092/fdecea15-7868-407f-a85c-c32eb95fdcda)
+  ![image](https://github.com/fouzialhmdi/FED/assets/112877092/529cd9ef-7279-4978-9c55-94a451e498b7)
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Hamburger is niet gelukt, ik kwam er helaas niet uit met het plaatsen op de juiste plek en het ontwerp verschoof constant.
+  ![image](https://github.com/fouzialhmdi/FED/assets/112877092/0341aadd-1754-44bd-9ad5-dca229818671)
 </details>
 
 
@@ -241,5 +244,9 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   5. https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type
   6. https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp
   7. https://www.w3schools.com/html/html_forms.asp
+  8. https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/
+  9. https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
+  10. https://www.w3schools.com/css/css_positioning.asp
+  11. https://www.w3schools.com/cssref/sel_hover.php
 
 </details>
