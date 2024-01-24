@@ -72,7 +72,7 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
-![breakoutschets](https://github.com/fouzialhmdi/FED/assets/112877092/0320a52f-63f4-4e3e-ba5d-202dae86c8ae)
+![breakdownschets](https://github.com/fouzialhmdi/FED/assets/112877092/e4076288-54f7-4299-91a8-89ed6b3d8f10)
 
 
 </details>
