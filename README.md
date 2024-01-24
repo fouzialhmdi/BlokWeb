@@ -19,10 +19,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  Fouzia Lahmidi
 
   #### Je startniveau:
-Rood
-
+Blauw/rood
   #### Je focus:
-Responsive  
+Surface plane
 </details>
 
 
@@ -38,12 +37,13 @@ Responsive
 https://pusheen.com/
   #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage
-![image](https://github.com/fouzialhmdi/FED/assets/112877092/c64cc8df-1c65-4891-b6e6-ee219651392c)
+![screencapture-pusheen-2024-01-24-11_01_15](https://github.com/fouzialhmdi/FED/assets/112877092/66efdfa4-c397-4ad3-87a6-ce0242b5c1dd)
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-Fun
-![image](https://github.com/fouzialhmdi/FED/assets/112877092/1a46a7c0-b06c-4a83-8e88-2732de27d837)
- 
+Inschrijven nieuwsbrief
+ ![screencapture-heychickadee-us6-list-manage-subscribe-2024-01-24-11_02_41](https://github.com/fouzialhmdi/FED/assets/112877092/02a02205-1f54-430e-a277-f0d2cc9891ec)
+
 </details>
 
 
@@ -186,20 +186,13 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Nathalie      | Sosan         | Fouzia    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Mogelijkheden surface plane  | Voortgang             | Hamburgermenu   | en dan ik dat    |
+  | Screenreader | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
 
 </details>
 
@@ -241,8 +234,12 @@ De screenreader is lastig te volgen. Ik kan er niet altijd uithalen wat de scree
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. ChatGpT 
+  2. Pusheen.com voor de afbeeldingen
+  3. https://www.codepel.com/animation/falling-heart-animation-css/
+  4. https://www.w3schools.com/css/css_border.asp
+  5. https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type
+  6. https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp
+  7. https://www.w3schools.com/html/html_forms.asp
 
 </details>
